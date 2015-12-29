@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="numeros">
+        <item>1. </item>
+        <item>2. </item>
+        <item>3. </item>
+        <item>4. </item>
+        <item>5. </item>
+        <item>6. </item>
+        <item>7. </item>
+        <item>8. </item>
+        <item>9. </item>
+    </array>
+
+    <array name="grupo1">
+
+        <item>1. Gran Tradicional Auténtica "Diablada Oruro". </item>
+        <item>2. Fraternidad Hijos del Sol "Los Incas".</item>
+        <item>3. Conjunto Folklórico Morenada "Zona Norte".</item>
+        <item>4. Fraternidad Artística "Zampoñeros Hijos del Pagador".</item>
+        <item>5. Centro Tradicional "Negritos del Pagador".</item>
+        <item>6. Conjunto Folklórico "Ahuatiris".</item>
+        <item>7. Conjunto Waca Wacas "San Agustín-Derecho".</item>
+        <item>8. Fraternidad Morenada "Central Oruro".</item>
+        <item>9. Conjunto Caporales Infantiles "Ignacio León".</item>
+
+    </array>
+</resources>

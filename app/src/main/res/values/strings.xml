@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Carnaval 2016</string>
+    <string name="sabado_main">sabado</string>
+    <string name="domingo_main">domingo</string>
+    <string name="recorrido_main">recorrido</string>
+    <string name="grupo1">grupo 1</string>
+    <string name="grupo2">grupo 2</string>
+    <string name="grupo3">grupo 3</string>
+    <string name="grupo4">grupo 4</string>
+    <string name="grupo5">grupo 5</string>
+    <string name="grupo6">grupo 6</string>
+    <string name="siguiente">siguiente</string>
+</resources>
